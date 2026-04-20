@@ -1,0 +1,26 @@
+<style>
+p {
+color: grey;
+}
+h1, h2 {
+background-color: yellow;
+}
+h1 {
+text-align: center;
+}
+.valor {
+background-color: rgb(211, 211, 211);
+}
+.btn-accion {
+border: 1px solid black;
+}
+li {
+background-color: rgb(190, 185, 185);
+}
+footer {
+text-align: right;
+}
+.profesion {
+color: blue;
+}
+</style>
