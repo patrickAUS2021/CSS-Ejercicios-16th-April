@@ -23,4 +23,20 @@ text-align: right;
 .profesion {
 color: blue;
 }
+.ubicacion {
+    text-align: center;
+}
+#perfil-usuario {
+    background-color: rgb(206, 199, 199);
+    border: 3px solid grey;
+}
+#nombre-perfil {
+    color: black;
+}
+#info-principal {
+    background-color: pink;
+}
+#mensaje-directo {
+    background-color: white;
+}
 </style>
